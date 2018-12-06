@@ -264,6 +264,7 @@ aside {
 	img.anniversary {
     max-width: 140px;
 	}
+
 	.ge-logo {
 		display: block;
     width: 119px;
@@ -275,6 +276,7 @@ aside {
 	.ge-logo img {
 		border: none;
 		display: block;
+		box-shadow: 3px 4px 8px #222;
 	}
 	
 	.sidebar-announcement-content {
