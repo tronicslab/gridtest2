@@ -4,7 +4,7 @@
   grid-template-areas: 'header-left' 'header' 'header-right' 'sidebar' 'navigation' 'main' 'aside' 'footer';
   -ms-grid-columns: 220px 12% 12% 12% 12% 12% 195px;
   grid-template-columns: 220px 12% 12% 12% 12% 12% 195px;
-  -ms-grid-rows: 190px 750px 175px;
+  -ms-grid-rows: 190px 40px 750px 175px;
   grid-template-rows: 190px 40px 750px 175px;
   grid-template-areas: 
     "header-left header header header header-right header-right header-right"
