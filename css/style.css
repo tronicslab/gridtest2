@@ -209,6 +209,7 @@ footer {
 
 main {
 	//background-color: violet;
+  display: block;
   grid-area: main;
   -ms-grid-row: 2;
   -ms-grid-column: 2;
